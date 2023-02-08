@@ -1,2 +1,2 @@
 
-## Application using various twitch API's i can get hold off
+## Application using various Twitch API's i can get hold off
